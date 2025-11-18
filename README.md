@@ -136,6 +136,4 @@ MediCareCall 프로젝트는 다음과 같은 주요 모듈 및 패키지로 구
 *   `chore` : 그 외 자잘한 수정
 
 ---
-<p align="center">
-  <em>README last updated: 2025-08-21 </em>
-</p>
+
