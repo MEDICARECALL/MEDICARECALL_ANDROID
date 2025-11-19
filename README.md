@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/version-0.1.0-blue.svg" alt="Version"/>
 </p>
 
+🔗새싹 해커톤 AI 서비스 기획서 PDF 링크 https://github.com/MEDICARECALL/.github/blob/main/profile/%5B%EB%A9%94%EB%94%94%EC%BC%80%EC%96%B4%5D2025%EB%85%84%20%EC%83%88%EC%8B%B9%20%ED%95%B4%EC%BB%A4%ED%86%A4%20AI%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf
+
+
 ## 🚀 개요 (Overview)
 
 Medicare-Call-Android 프로젝트는 보호자용 케어콜 앱의 핵심 플로우를 제공합니다. (회원가입/로그인 → 결제 등록 → 어르신 등록 → 홈/통계/설정)
